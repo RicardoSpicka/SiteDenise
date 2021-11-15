@@ -82,3 +82,15 @@ body{
 #bemvindos {
 	background-color: #385038;
 }
+<<<<<<< HEAD
+=======
+
+#rodape {
+	width:950px;
+	height:200px;
+	background:url(imagens/fundoRodape.jpg);
+	background-repeat:repeat-x;
+	margin-left:auto;
+	margin-right:auto;
+}
+>>>>>>> 019bc131ca2b95cc7033917778f39b44d51aea4e
