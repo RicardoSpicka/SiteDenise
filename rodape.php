@@ -1,7 +1,20 @@
 <footer id="rodape">
       <aside id="direitos">
-        <p>2021 - Todos os direitos reservados.</p> 
-        <p> Desenvolvido por Ricardo Spicka</p>
+       
+        <p>2021 - Todos os direitos reservados.<br> Desenvolvido por Ricardo Spicka</p>
+
+        <table>
+          <tr>
+            <td>
+              <p>Visitantes:</a>
+            </td>
+            <td>
+              <a href='https://contador.s12.com.br'><img src='https://contador.s12.com.br/img-wCB2B9ZDWZ125Bxz-17.gif' border='0' alt='contador de acessos'></a><script type='text/javascript' src='https://contador.s12.com.br/ad.js?id=wCB2B9ZDWZ125Bxz'></script>
+            </td>
+          </tr>
+
+
+        </table>
       </aside>    
 
 

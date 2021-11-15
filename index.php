@@ -17,13 +17,15 @@ include('cabecalho.php');
 
       <aside id="bemvindos">
         <header class="SUBTITULO"><h3>SEJAM BEM VINDOS</h3></header>  
-        <p><img id="fotopq" src="imagens/fono.png" width="170px" alt="bannerDenise" />Sejam muito bem vindos ao meu novo site. 
+        <p><img id="fotopq" src="imagens/fono.png" width="100px" alt="bannerDenise" />Sejam muito bem vindos ao meu novo site. 
           É um imenso prazer receber vocês para conhecer o meu trabalho.</p>
           <p>O que vocês irão encontrar aqui ? Artigos relacionados a vários assuntos ligados ao nicho de Fonoaudiologia.
           O objetivo desse site é passar conhecimento que lhes ajudem no dia a dia.</p>
           <p>Espero que gostem! Se tiverem alguma dúvida, podem entrar em contato comigo através dos canais abaixo.</p>
           <p> Agradeço a visita e espero que voltem.
-          Abraços. </p>
+          Abraços.</p>
+          <div id="ass"><img src="imagens/assinatura.png" width="200px" alt="assinatura" float="rigth"/></div>
+          
       </aside>
     </div>
 
